@@ -1,32 +1,7 @@
 # 💫 About Me  
-Full-stack developer specializing in **Laravel**, **React**, **Next.js**, **Tailwind**, and **Flutter**.<br>
-I enjoy building clean UIs, scalable systems, and automating workflows.<br><br>
+I’m a full-stack developer specializing in **Laravel**, **React**, **Next.js**, and **Tailwind CSS**. I enjoy building clean user interfaces, scalable systems, and automating workflows to improve efficiency. I’m currently focused on full-stack applications, reusable components, and personal projects built with Laravel and React/Next.js. I'm also open to collaborating on open-source and modern web development initiatives.
 
-🔭 **Working on**<br>
-• Full-stack apps  
-• Reusable components  
-• Laravel + React/Next.js projects<br><br>
-
-🤝 **Collaboration**<br>
-• Open-source  
-• Laravel, React, Flutter apps<br><br>
-
-🌱 **Learning**<br>
-• Next.js App Router  
-• Flutter BLoC / Cubit  
-• Server-Side GTM & CAPI<br><br>
-
-💬 **Ask me about**<br>
-• Laravel, React, Tailwind  
-• Inertia.js, TanStack Table, ShadCN UI  
-• Flutter Firebase Auth  
-• whatsapp-web.js bots<br><br>
-
-⚡ **Fun fact**<br>
-Debugging is relaxing for me 😆<br><br>
-
-🛠️ **Tech Stack**<br>
-Laravel · React · Next.js · Tailwind · Node.js · Flutter · Dart · MySQL · PostgreSQL · Docker · Git
+I’m continually learning Next.js App Router and Server-Side GTM with the Conversions API. If you’d like to discuss anything, I can help with Laravel, React, Tailwind, Inertia.js, TanStack Table, ShadCN UI, and building WhatsApp bots using whatsapp-web.js. Debugging is genuinely enjoyable for me, and I always strive to maintain a balance between clean UI and clean code.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.hamdani.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadhamdani017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhamdani017@gmail.com) 
