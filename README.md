@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Muhammad Hamdani  
+A passionate full-stack developer who loves building modern, clean, and scalable web applications.
+
 # 💫 About Me  
 I’m a full-stack developer specializing in **Laravel**, **React**, **Next.js**, and **Tailwind CSS**. I enjoy building clean user interfaces, scalable systems, and automating workflows to improve efficiency. I’m currently focused on full-stack applications, reusable components, and personal projects built with Laravel and React/Next.js. I'm also open to collaborating on open-source and modern web development initiatives.
 
