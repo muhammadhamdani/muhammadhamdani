@@ -1,6 +1,36 @@
-# 💫 About Me:
-I'm a full-stack developer focusing on Laravel, React, Next.js, Tailwind CSS, and Flutter.<br>I enjoy exploring new tools, automating workflows, and shipping reliable software.<br><br>🔭 I’m currently working on<br><br>Building modern full-stack applications<br><br>Developing reusable components & scalable architectures<br><br>Personal projects using Laravel, React, and Next.js<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects (web dev, API, automation)<br><br>Full-stack apps with Laravel, React, Flutter<br><br>Any project that helps people learn or solve real problems<br><br>🤔 I’m looking for help with<br><br>Advanced DevOps (Docker, CI/CD, server optimization)<br><br>Improving large-scale React + Laravel performance<br><br>Best practices for scalable system design<br><br>🌱 I’m currently learning<br><br>Next.js App Router + Server Actions<br><br>Flutter state management (BLoC / Cubit)<br><br>Server-Side GTM & Conversions API<br><br>Advanced Typescript patterns<br><br>💬 Ask me about<br><br>Laravel, React, Tailwind<br><br>Inertia.js, TanStack Table, ShadCN UI<br><br>Flutter Firebase Auth (Google Login)<br><br>WhatsApp bot using whatsapp-web.js<br><br>⚡ Fun fact<br><br>I can spend hours debugging and still call it “fun” 😆<br><br>I love clean UI + clean code <br><br>🛠️ Tech Stack<br><br>Languages & Tools:<br>Laravel · React · Next.js · Tailwind CSS · Node.js · Flutter · Dart · MySQL · PostgreSQL · Docker · Git · Inertia.js · TanStack Table · ShadCN UI<br><br>
+# 💫 About Me
+I'm a full-stack developer focusing on **Laravel**, **React**, **Next.js**, **Tailwind CSS**, and **Flutter**.<br>
+I love exploring new tools, automating workflows, and shipping reliable software.<br><br>
 
+🔭 **Currently working on**<br>
+• Full-stack applications<br>
+• Reusable components & scalable architectures<br>
+• Personal projects with Laravel & React/Next.js<br><br>
+
+🤝 **Collaboration**<br>
+• Open-source projects<br>
+• Laravel, React, Flutter apps<br><br>
+
+🤔 **Looking for help with**<br>
+• DevOps (Docker, CI/CD)<br>
+• Scaling React + Laravel apps<br><br>
+
+🌱 **Learning**<br>
+• Next.js App Router<br>
+• Flutter BLoC / Cubit<br>
+• Server-Side GTM & CAPI<br><br>
+
+💬 **Ask me about**<br>
+• Laravel, React, Tailwind<br>
+• Inertia.js, TanStack Table, ShadCN UI<br>
+• Flutter Firebase Auth<br>
+• WhatsApp bot (whatsapp-web.js)<br><br>
+
+⚡ **Fun fact**<br>
+Debugging is fun for me 😆 — and I love clean UI + clean code.<br><br>
+
+🛠️ **Tech Stack**<br>
+Laravel · React · Next.js · Tailwind CSS · Node.js · Flutter · Dart · MySQL · PostgreSQL · Docker · Git · Inertia.js · TanStack Table · ShadCN UI
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.hamdani.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadhamdani017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhamdani017@gmail.com) 
