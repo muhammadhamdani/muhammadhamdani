@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0E8EF7&center=true&vCenter=true&lines=Hi%2C+I'm+Muhammad+Hamdani;Full-stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Clean+UI+%2B+Clean+Code+Enthusiast" />
+</p>
+
 # 👋 Hi, I'm Muhammad Hamdani  
 A passionate full-stack developer who loves building modern, clean, and scalable web applications.
 
