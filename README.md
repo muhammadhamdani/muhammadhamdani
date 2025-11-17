@@ -1,36 +1,32 @@
-# 💫 About Me
-I'm a full-stack developer focusing on **Laravel**, **React**, **Next.js**, **Tailwind CSS**, and **Flutter**.<br>
-I love exploring new tools, automating workflows, and shipping reliable software.<br><br>
+# 💫 About Me  
+Full-stack developer specializing in **Laravel**, **React**, **Next.js**, **Tailwind**, and **Flutter**.<br>
+I enjoy building clean UIs, scalable systems, and automating workflows.<br><br>
 
-🔭 **Currently working on**<br>
-• Full-stack applications<br>
-• Reusable components & scalable architectures<br>
-• Personal projects with Laravel & React/Next.js<br><br>
+🔭 **Working on**<br>
+• Full-stack apps  
+• Reusable components  
+• Laravel + React/Next.js projects<br><br>
 
 🤝 **Collaboration**<br>
-• Open-source projects<br>
+• Open-source  
 • Laravel, React, Flutter apps<br><br>
 
-🤔 **Looking for help with**<br>
-• DevOps (Docker, CI/CD)<br>
-• Scaling React + Laravel apps<br><br>
-
 🌱 **Learning**<br>
-• Next.js App Router<br>
-• Flutter BLoC / Cubit<br>
+• Next.js App Router  
+• Flutter BLoC / Cubit  
 • Server-Side GTM & CAPI<br><br>
 
 💬 **Ask me about**<br>
-• Laravel, React, Tailwind<br>
-• Inertia.js, TanStack Table, ShadCN UI<br>
-• Flutter Firebase Auth<br>
-• WhatsApp bot (whatsapp-web.js)<br><br>
+• Laravel, React, Tailwind  
+• Inertia.js, TanStack Table, ShadCN UI  
+• Flutter Firebase Auth  
+• whatsapp-web.js bots<br><br>
 
 ⚡ **Fun fact**<br>
-Debugging is fun for me 😆 — and I love clean UI + clean code.<br><br>
+Debugging is relaxing for me 😆<br><br>
 
 🛠️ **Tech Stack**<br>
-Laravel · React · Next.js · Tailwind CSS · Node.js · Flutter · Dart · MySQL · PostgreSQL · Docker · Git · Inertia.js · TanStack Table · ShadCN UI
+Laravel · React · Next.js · Tailwind · Node.js · Flutter · Dart · MySQL · PostgreSQL · Docker · Git
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.hamdani.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadhamdani017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhamdani017@gmail.com) 
